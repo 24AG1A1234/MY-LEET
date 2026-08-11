@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/24AG1A1234/MY-LEET/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/24AG1A1234/MY-LEET/tree/master/0877-stone-game) |
 ## Math
 |  |
