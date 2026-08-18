@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/24AG1A1234/MY-LEET/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/24AG1A1234/MY-LEET/tree/master/1796-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/24AG1A1234/MY-LEET/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
