@@ -45,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/24AG1A1234/MY-LEET/tree/master/1796-second-largest-digit-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/24AG1A1234/MY-LEET/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/24AG1A1234/MY-LEET/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/24AG1A1234/MY-LEET/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/24AG1A1234/MY-LEET/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
